@@ -25,6 +25,4 @@ Il permet d'ajouter, lister et (potentiellement) supprimer des tâches.
 - Sauvegarder les tâches dans un fichier pour les conserver entre les sessions.
 - Ajouter une fonctionnalité pour marquer une tâche comme terminée.
 
-blabla 
-test 3
-test 2 
+ctrl+s Commit ctrl+s push
