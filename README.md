@@ -24,3 +24,5 @@ Il permet d'ajouter, lister et (potentiellement) supprimer des tâches.
 - Permettre de supprimer des tâches spécifiques.
 - Sauvegarder les tâches dans un fichier pour les conserver entre les sessions.
 - Ajouter une fonctionnalité pour marquer une tâche comme terminée.
+
+blabla
